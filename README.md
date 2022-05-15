@@ -1,5 +1,8 @@
 # typec_ADXL345
- As far as I know, raspberry pie is too expensive now, so I can't use raspberry pie to run the klipper control system. Fortunately, however, Intel offers us an additional option, with some Cyan processors offering higher performance while maintaining very low power consumption. I got a motherboard for my advertising machine from my media operator, which is an X86 computer motherboard based on a Saiyang processor. It looks very integrated. 
+ As far as I know, raspberry pie is too expensive now, so I can't use raspberry pie to run the klipper control system. 
+ Fortunately Intel offers us an additional option, Some Celeron processors can be used with low power consumption 
+ I got a motherboard from  Waste Market ， which is an X86 computer motherboard based on a Celeron processor. 
+ WOW，look at him ： integrated. 
 ![图片](https://user-images.githubusercontent.com/53431902/168425022-f5353120-8198-4d3e-9086-91f06b066501.png)
 But PC motherboards don't normally provide SPI for us to use, so we have to use MCU to provide SPI to connect ADXL345
 For commercial printers, the schematic diagram of the control panel may not be published, and SPI using MCU may not be a viable option
