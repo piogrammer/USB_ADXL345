@@ -1,4 +1,5 @@
 # typec_ADXL345
+本方案的使用教程https://www.bilibili.com/video/BV1ou411z7Yv/
 在Klipper打印控制系统中，我们可以使用一个X86主板安装ubuntu然后将klipper运行在这里
 一个低功耗的X86电脑主板如下图
 ![图片](https://user-images.githubusercontent.com/53431902/168425022-f5353120-8198-4d3e-9086-91f06b066501.png)
