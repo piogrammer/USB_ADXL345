@@ -8,6 +8,9 @@ But PC motherboards don't normally provide SPI for us to use, so we have to use 
 For commercial printers, the schematic diagram of the control panel may not be published, and SPI using MCU may not be a viable option
 For your old DIY printer, you may use a low-performance AVR single-chip computer, there is no remaining performance to connect an ADXL345
 This module integrates stm32f103c6 high-performance ARM single-chip computer (Taobao retail price is about 3 yuan), uses this single-chip computer to operate ADXL345, and transfers data through USB to X86 motherboard
+
+PCB is designed for 0603 components, but unfortunately I lost these treasures, so I had to use 0805 components to cope temporarily.
+If you want to clone this project, I suggest you use 0603 component.
 ![图片](https://user-images.githubusercontent.com/53431902/168425228-30f2f151-d220-42e4-b611-f589e2e4b367.png)
 
 This module is suitable for all 3D printers equipped with klipper firmware to achieve resonance measurement, especially for old or commercial machines
