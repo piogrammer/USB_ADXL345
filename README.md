@@ -1,6 +1,6 @@
 # typec_ADXL345
  The prices of raspberry pie is obviously too high🤯  
- So  I tried to find other ways to install  klipper   
+ So  I tried to find other ways to install  klipper  (a control system for 3D printer,like marlin but more powerful!For more info:https://www.klipper3d.org/ )
  Low power Intel processors seem to be a better solution , I got a motherboard from  Waste Market which is equipped with the N3050 processor 
  WOW，look at him ：  Highly integrated .   
 ![图片](https://user-images.githubusercontent.com/53431902/168425022-f5353120-8198-4d3e-9086-91f06b066501.png)
