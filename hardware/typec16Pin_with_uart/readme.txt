@@ -4,3 +4,4 @@
 然后按下复位键，最少保持4毫秒，然后松开
 然后就可以从cubeprogrammer里进行烧录了
 烧录时设备选择UART，波特率随意，校验随意
+焊接指导和烧录演示https://www.bilibili.com/video/BV1x94y117Sd/
